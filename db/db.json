@@ -1,12 +1,24 @@
-[
-    {   "id": 1,
-        "title":"Test Title",
-        "text":"Test text"
-    },
-
+{
+  "note": [
     {
-        "id":2,
-        "title": "Pokemon Notes",
-        "text": "Pokemons are the only dummy text i can use."
+      "id": "0",
+      "title": "Monster Title",
+      "text": "Anjanath text"
+    },
+    {
+      "id": "1",
+      "title": "Pokemon Notes",
+      "text": "Pokemons are the only dummy text i can use."
+    },
+    {
+      "title": "Iceborn",
+      "text": "A new Addition to Monster Hunter World",
+      "id": "2"
+    },
+    {
+      "title": "Just need to check if the Id",
+      "text": "ID I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. D I think is definitely working. ",
+      "id": "3"
     }
-]
+  ]
+}
