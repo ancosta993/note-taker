@@ -6,9 +6,19 @@
       "id": "2"
     },
     {
-      "title": "New Meeting",
-      "text": "Discuss the sales and the new managers.\nTalk about the current competitors.\nTalk about the employee of the month award.",
-      "id": "4"
+      "title": "New Note",
+      "text": "This is a new note added for testing. ",
+      "id": "2"
+    },
+    {
+      "title": "8th note",
+      "text": "8th note added for testing",
+      "id": "2"
+    },
+    {
+      "title": "9th note for testing",
+      "text": "Does it still work?",
+      "id": "3"
     }
   ]
 }

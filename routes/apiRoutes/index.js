@@ -13,7 +13,7 @@ router.post('/notes', (req, res) => {
    req.body.id = note.length.toString();
    note.push(req.body);
    fs.writeFileSync(path.join(__dirname, '../../db/db.json'), JSON.stringify({ note: note }, null, 2));
-   res.json(note);
+   // res.json(note);
    res.json(req.body);
 });
 
