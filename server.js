@@ -4,6 +4,7 @@ const express = require('express');
 // const fs = require('fs');
 
 const app = express();
+PORT = process.env.PORT || 3001;
 
 
 // parse incoming string or array data
@@ -17,6 +18,6 @@ app.use(express.static('public'));
 app.use('/api', require('./routes/apiRoutes'));
 app.use('/', require('./routes/htmlRoutes'));
 
-app.listen(3001, () => {
-   console.log('Server initiated in port 3001')
+app.listen(PORT, () => {
+   console.log(`Server initiated in port ${PORT}`)
 });

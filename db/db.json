@@ -1,24 +1,14 @@
 {
   "note": [
     {
-      "title": "Iceborn",
-      "text": "A new Addition to Monster Hunter World",
-      "id": "2"
+      "title": "Looping in JS",
+      "text": "Looping through an object requires it to have Symbole.iterator.next() method.",
+      "id": "3"
     },
     {
       "title": "New Note",
-      "text": "This is a new note added for testing. ",
-      "id": "2"
-    },
-    {
-      "title": "8th note",
-      "text": "8th note added for testing",
-      "id": "2"
-    },
-    {
-      "title": "9th note for testing",
-      "text": "Does it still work?",
-      "id": "3"
+      "text": "Added just for testing.",
+      "id": "1"
     }
   ]
 }
